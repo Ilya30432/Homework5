@@ -1,0 +1,105 @@
+@import url("resent.css");
+
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.first{
+    font-size: 0;
+}
+
+.txt{
+    background-color: aqua;
+    border: 2px solid brown;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.second{
+font-size: 0;
+}
+
+.one{
+    display: inline-block;
+    width: 600px;
+    background-color: lightgreen;
+    font-size: 25px;
+    vertical-align: top;
+}
+
+.two{
+    display: inline-block;
+    width: 300px;
+    background-color: lightgreen;
+    font-size: 25px;
+}
+
+.text{
+ border: 2px solid brown;
+  height: 150px;
+}
+.info{
+border: 2px solid brown;
+height: 100px;
+}
+
+
+.third{
+    font-size: 0;
+}
+.three{
+    display: inline-block;
+    background-color: orange;
+   font-size: 25px;
+   width: 300px;
+   height: 300px;
+   vertical-align: top;
+   border: 2px solid brown;
+}
+
+.four{
+    display: inline-block;
+    background-color: orange;
+    font-size: 25px;
+}
+
+
+.ten{
+    width: 600px;
+    height: 150px;
+    border: 2px solid brown;
+    
+}
+
+.infor{
+    font-size: 0;
+}
+.eleven{
+   height: 150px;
+   width: 300px;
+   border: 2px solid brown;
+   display: inline-block;
+   vertical-align: top;
+   font-size: 25px;
+}
+
+.infa{
+    display: inline-block;
+    font-size: 0;
+}
+
+.twelve{
+    font-size: 25px ;
+    border: 2px solid brown;
+    width: 300px;
+    height: 75px;
+}
+.thirteen{
+ font-size: 25px;
+ border: 2px solid brown;
+ height: 75px;
+}
