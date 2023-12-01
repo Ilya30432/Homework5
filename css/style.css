@@ -6,33 +6,29 @@
     margin: 0 auto;
 }
 
-.clearfix::after{
-    content: "";
-    display: block;
-    clear: both;
+.first{
+    display: flex;
 }
-
-
 
 .txt{
     background-color: aqua;
     border: 2px solid brown;
     width: 300px;
     height: 300px;
-    float: left;
     font-size: 25px;
 }
 
+.second {
+    display: flex;
+}
 
 .one{
-    float: left;
     width: 600px;
     background-color: lightgreen;
     font-size: 25px;
 }
 
 .two{
-    float: left ;
     width: 300px;
     background-color: lightgreen;
     font-size: 25px;
@@ -48,10 +44,11 @@ border: 2px solid brown;
 height: 100px;
 }
 
-
+.third{
+    display: flex;
+}
 
 .three{
-    float: left;
     background-color: orange;
    font-size: 25px;
    width: 300px;
@@ -60,7 +57,6 @@ height: 100px;
 }
 
 .four{
-    float: left;
     background-color: orange;
     font-size: 25px;
 }
@@ -73,17 +69,18 @@ height: 100px;
     
 }
 
+.infor{
+    display: flex;
+}
 
 .eleven{
    height: 150px;
    width: 300px;
    border: 2px solid brown;
-   float: left;
    font-size: 25px;
 }
 
 .infa{
-    float: left;
     width: 300px;
     font-size: 25px;
 }
